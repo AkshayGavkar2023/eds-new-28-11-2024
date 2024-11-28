@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-new-28-11-2024/:/",
-    "/content/eds-new-28-11-2024e/configuration:/.helix/config.json",
-    "/content/eds-new-28-11-2024/metadata:/metadata.json"
+    "/content/eds-new-164/:/",
+    "/content/eds-new-164/configuration:/.helix/config.json",
+    "/content/eds-new-164/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-new-28-11-2024/"
+    "/content/eds-new-164/"
   ]
 }
