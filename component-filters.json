@@ -31,6 +31,12 @@
     ]
   },
   {
+    "id": "blog",
+    "components": [
+      "blog"
+    ]
+  },
+  {
     "id": "column",
     "components": [
       "text",
