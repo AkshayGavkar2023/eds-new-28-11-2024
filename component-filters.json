@@ -16,7 +16,8 @@
       "cards",
       "columns",
       "fragment",
-      "blog"
+      "blog",
+      "Carousel"
     ]
   },
   {
@@ -35,6 +36,13 @@
     "id": "blog",
     "components": [
       "blog"
+    ]
+  },
+  {
+    "id": "carousel",
+    "components": [
+      "carousel",
+      "carousel-item"
     ]
   },
   {
