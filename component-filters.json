@@ -17,13 +17,20 @@
       "columns",
       "fragment",
       "blog",
-      "carousel"
+      "carousel",
+      "carouselcontainer"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "carouselcontainer",
+    "components": [
+      "carousellistitem"
     ]
   },
   {
