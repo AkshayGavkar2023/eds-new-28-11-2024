@@ -1,5 +1,5 @@
 export default function decorate(block) {
-    [...block.children].forEach((row) => {
+    [...block.children].forEach(function(row){
       // decorate accordion item label
       const label = row.children[0];
       const summary = document.createElement('summary');
