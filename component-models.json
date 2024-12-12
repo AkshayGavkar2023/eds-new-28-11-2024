@@ -229,12 +229,12 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "title",
+        "name": "heading",
         "label": "title"
       },
       {
         "component": "text",
-        "name": "text",
+        "name": "desc",
         "label": "Text",
         "valueType": "string"
       }
