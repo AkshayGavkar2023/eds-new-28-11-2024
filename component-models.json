@@ -222,21 +222,19 @@
         "valueType": "string"
       }
     ]
-  }
-  ,  {
+  },
+  {
     "id": "accordionitem",
     "fields": [
       {
         "component": "text",
         "valueType": "string",
         "name": "title",
-        "label": "Alt",
-        "value": ""
+        "label": "title"
       },
       {
-        "component": "richtext",
+        "component": "text",
         "name": "text",
-        "value": "",
         "label": "Text",
         "valueType": "string"
       }
