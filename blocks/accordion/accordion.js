@@ -19,5 +19,5 @@ export default function decorate(block) {
       details.className = 'accordion-item';
       details.append(summary, body);
       row.replaceWith(details);
-    });
+    })
   }
