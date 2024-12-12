@@ -37,7 +37,7 @@
   {
     "id": "accordion",
     "components": [
-      "accordionitem"
+      "accordionlist"
     ]
   },
   {
