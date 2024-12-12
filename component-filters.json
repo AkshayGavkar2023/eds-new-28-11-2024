@@ -19,7 +19,7 @@
       "blog",
       "carousel",
       "carouselcontainer",
-      "Accordioncontainer"
+      "accordioncontainer"
     ]
   },
   {
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "id": "Accordioncontainer",
+    "id": "accordioncontainer",
     "components": [
       "accordionlist"
     ]
