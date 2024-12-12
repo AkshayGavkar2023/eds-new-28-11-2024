@@ -16,10 +16,7 @@
       "cards",
       "columns",
       "fragment",
-      "blog",
-      "carousel",
-      "carouselcontainer",
-      "accordioncontainer"
+      "accordion"
     ]
   },
   {
@@ -29,33 +26,9 @@
     ]
   },
   {
-    "id": "carouselcontainer",
-    "components": [
-      "carousellistitem"
-    ]
-  },
-  {
-    "id": "accordioncontainer",
-    "components": [
-      "accordionlist"
-    ]
-  },
-  {
     "id": "columns",
     "components": [
       "column"
-    ]
-  },
-  {
-    "id": "blog",
-    "components": [
-      "blog"
-    ]
-  },
-  {
-    "id": "carousel",
-    "components": [
-      "carouselitem"
     ]
   },
   {
