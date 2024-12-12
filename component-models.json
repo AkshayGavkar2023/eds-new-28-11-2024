@@ -224,7 +224,7 @@
     ]
   },
   {
-    "id": "accordionitem",
+    "id": "accordionlist",
     "fields": [
       {
         "component": "text",

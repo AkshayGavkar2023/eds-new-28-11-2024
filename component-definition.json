@@ -248,15 +248,15 @@
           }
         },
         {
-          "title": "Accordionitem",
-          "id": "accordionitem",
+          "title": "Accordion List",
+          "id": "accordionlist",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block/item",
                 "template": {
-                  "name": "Accordionitem",
-                  "model": "accordionitem"
+                  "name": "Accordioni List",
+                  "model": "accordionlist"
                 }
               }
             }
