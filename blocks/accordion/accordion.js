@@ -1,5 +1,11 @@
+/*
+ * Accordion Block
+ * Recreate an accordion
+ * https://www.hlx.live/developer/block-collection/accordion
+ */
+
 export default function decorate(block) {
-    [...block.children].forEach(function(row){
+    [...block.children].forEach((row) => {
       // decorate accordion item label
       const label = row.children[0];
       const summary = document.createElement('summary');
@@ -15,4 +21,3 @@ export default function decorate(block) {
       row.replaceWith(details);
     });
   }
-  
