@@ -2,7 +2,8 @@
   "mappings": [
     "/content/eds-new-164/:/",
     "/content/eds-new-164/configuration:/.helix/config.json",
-    "/content/eds-new-164/metadata:/metadata.json"
+    "/content/eds-new-164/metadata:/metadata.json",
+    "/content/eds-new-164/api/:/api/testimonal.json"
   ],
   "includes": [
     "/content/eds-new-164/"
